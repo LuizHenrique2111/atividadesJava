@@ -1,0 +1,1 @@
+Esse algoritmo tem por objetivo fazer uma prova com questionários e respostas, e no final das a nota conforme as escolhas do usuário.
